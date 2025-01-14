@@ -1,5 +1,5 @@
 [build]
-  image="grafana/grafana-enterprise:10.0.3-ubuntu"
+  image="grafana/grafana-enterprise:11.4.0-ubuntu"
 
 [env]
   GF_USERS_DEFAULT_THEME="light"
